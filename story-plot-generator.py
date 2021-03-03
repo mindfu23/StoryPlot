@@ -199,3 +199,5 @@ name_nouns
 		#relationship is reciprocal and affects both. 
 		#good to leave room for possibility of connections with both. So a character can be protag's friend and antag's nephew, for example.
 	.location 
+	
+	#test change
